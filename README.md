@@ -25,9 +25,18 @@ A simple and elegant Discord bot that shows real-time weather information for an
 
 ## 🛠️ Setup
 
-### 1️⃣ Clone the repository
+- ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/galaxtric158/discord-weather-bot.git
 cd discord-weather-bot
 ```
+
+- ### 2️⃣ Create a .env file
+  Create a file named .env in the project root and add your API keys:
+  ```.env
+  DISCORD_TOKEN=your_discord_bot_token_here
+  OPENWEATHER_APIKEY=your_openweather_api_key_here
+  ```
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&letterSpacing=close&duration=3000&pause=1000&width=435&lines=Created+By+Galax!)](https://git.io/typing-svg)
