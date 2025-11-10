@@ -29,3 +29,5 @@ A simple and elegant Discord bot that shows real-time weather information for an
 ```bash
 git clone https://github.com/galaxtric158/discord-weather-bot.git
 cd discord-weather-bot
+```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&letterSpacing=close&duration=3000&pause=1000&width=435&lines=Created+By+Galax!)](https://git.io/typing-svg)
